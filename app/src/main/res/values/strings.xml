@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Example4WIFI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Plese input the printer\'s IP Addr.</string>
+    <string name="inputIp">Plese input the printer\'s IP Addr.</string>
+    <string name="inPrinterIp">192.168.1.248</string>
+    <string name="conTest">connect test</string>
+    <string name="printf">Print</string>
+    <string name="inputData">Welcome to use the impact and thermal printer manufactured by professional POS receipt printer company!</string>
+    <string name="log">Log...</string>
+    <string name="OpenCash">OpenCash</string>
+    <string name="CutPaper">CutPaper</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+</resources>
